@@ -63,8 +63,3 @@ Python, NumPy, machine learning fundamentals.
 
 **Outcome:**  
 Constructed a functional neural network model, reinforcing conceptual understanding of how neural networks learn and generalize from data.
-
----
-
-## Repository Structure
-
